@@ -2,7 +2,7 @@ import discord
 from discord.ext import tasks, commands
 import requests
 
-# Replace TOKEN and JIKAN_API wit your own data.
+# Replace TOKEN and JIKAN_API wit your own data
 
 TOKEN = '[Tama Token]'
 
